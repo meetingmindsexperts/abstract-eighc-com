@@ -60,17 +60,17 @@
                     <div class="alert alert-success">Abstract
                         Submitted Successfully</div>
                     @endif
-<table>
-    <tr>
-        <td>Email: </td>
-        <td>{{ $email }}</td>
-    </tr>
-    <tr>
-        <td>Paper Number: </td>
-        <td>{{ $paper }}</td>
-    </tr>
-</table>
-<br/>
+                    <table>
+                        <tr>
+                            <td>Email: </td>
+                            <td>{{ $email }}</td>
+                        </tr>
+                        <tr>
+                            <td>Paper Number: </td>
+                            <td>{{ $paper }}</td>
+                        </tr>
+                    </table>
+                    <br/>
                       <label for="email">Please Select File to upload only: (MP4,FLV,MKV)<span style="color:red;">*</span></label>
                     <div id="upload-container" class="">
                         <button id="browseFile" class="btn btn-primary">Brows File</button>
