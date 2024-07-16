@@ -1,0 +1,2 @@
+[30-Aug-2021 12:08:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.29. in /home/httpmeetingminds/public_html/dropbox/vendor/composer/platform_check.php on line 24
+[14-Sep-2023 10:11:17 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.1.33. in /home/e6h54c62023/public_html/abstract.eghs-acg2023.com/vendor/composer/platform_check.php on line 24
