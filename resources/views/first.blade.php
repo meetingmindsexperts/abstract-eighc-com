@@ -61,8 +61,8 @@ input[type=number] {
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="full-image">
-                <img class="desk" src="{{ url('banner.jpg') }}" alt="">
-                <img class="mbl" src="{{ url('mbl-banner.jpg') }}" alt="">
+                <img class="desk" src="{{ url('eighc-eaheader-650.jpg') }}" alt="">
+                <img class="mbl" src="{{ url('eighc-eaheader-650.jpg') }}" alt="">
             </div>
             <div class="card">
 
