@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="{{ url('mme-Logo.png') }}">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -77,8 +78,8 @@ input[type=number] {
 
  
 
-<p>For any further assistance, please contact us at <a href="mailto:info@eghs-acg2023.com">info@eghs-acg2023.com</a></p>
-                 <a href="https://abstract.eghs-acg2023.com" class="btn btn-success">Upload Another</a>
+<p>For any further assistance, please contact us at <a href="mailto:eighc@meetingmindsexperts.com">eighc@meetingmindsexperts.com</a></p>
+                 <a href="/" class="btn btn-success">Upload Another</a>
                  </div>
                
                 </form>
