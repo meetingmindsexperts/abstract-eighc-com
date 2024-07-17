@@ -45,8 +45,8 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
               <div class="full-image">
-                <img class="desk" src="{{ url('banner.jpg') }}" alt="">
-                <img class="mbl" src="{{ url('mbl-banner.jpg') }}" alt="">
+                <img class="desk" src="{{ url('eighc-eaheader-650.jpg') }}" alt="">
+                <img class="mbl" src="{{ url('eighc-eaheader-650.jpg') }}" alt="">
             </div>
             <div class="card">
 
@@ -74,7 +74,7 @@
                     <br/>
                       <label for="email">Please Select File to upload only: (MP4,FLV,MKV)<span style="color:red;">*</span></label>
                     <div id="upload-container" class="">
-                        <button id="browseFile" class="btn btn-primary">Brows File</button>
+                        <button id="browseFile" class="btn btn-primary">Browse File</button>
                     </div>
                     <div class="progress mt-3" style="height: 25px">
                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%; height: 100%">75%</div>
